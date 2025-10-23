@@ -78,4 +78,8 @@ It helped me learn how machine learning can be applied to real-world text data t
 I used Jupyter Notebook as my main platform because it allows running each cell step-by-step, viewing results instantly, and visualizing data clearly.
 This task strengthened my skills in Natural Language Processing (NLP) and prepared me for more advanced projects involving chatbots, sentiment prediction, and opinion mining.
 
+OUTPUT :
+
+<img width="677" height="442" alt="Image" src="https://github.com/user-attachments/assets/4c221f44-9a7d-40ae-8e4e-3894f679aae2" />
+
 
