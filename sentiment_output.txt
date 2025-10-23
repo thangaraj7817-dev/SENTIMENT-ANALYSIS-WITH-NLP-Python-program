@@ -1,0 +1,2 @@
+Input Sentence: & C:/Users/thang/AppData/Local/Programs/Python/Python313/python.exe "d:/EA2431201010437/3 rd Sem/Internship/Internship CODTECH/Sentiment_Analysis_Task/sentiment_analysis.py"
+Polarity Score: 0.0
